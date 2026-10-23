@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+google-cloud-bigquery
+google-cloud-storage
+google-genai
+python-dotenv
+openpyxl

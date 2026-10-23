@@ -1,0 +1,6 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,total_spent,total_impressions,total_clicks,total_conversions,status,ingestion_timestamp
+CMP051,Product Launch Campaign 51,Product Launch,2026-03-01,2026-03-28,59000,29500,2650000,47900,2495,Scheduled,2027-08-13 10:12:11.699554
+CMP052,Lead Generation Campaign 52,Lead Generation,2026-04-01,2026-04-28,60000,30000,2700000,48800,2540,Draft,2027-08-13 10:12:12.699554
+CMP053,Brand Awareness Campaign 53,Brand Awareness,2026-05-01,2026-05-28,61000,30500,2750000,49700,2585,Active,2027-08-13 10:12:13.699554
+CMP054,Sales Promotion Campaign 54,Sales Promotion,2026-06-01,2026-06-28,62000,31000,2800000,50600,2630,Completed,2027-08-13 10:12:14.699554
+CMP055,Product Launch Campaign 55,Product Launch,2026-07-01,2026-07-28,63000,31500,2850000,51500,2675,Scheduled,2027-08-13 10:12:15.699554

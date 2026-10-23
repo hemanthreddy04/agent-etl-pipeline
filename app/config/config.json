@@ -1,0 +1,6 @@
+{
+  "GCP_PROJECT_ID": "project-423cf945-e1b8-4332-bf5",
+  "BQ_DATASET_ID": "agent_backend_etl",
+  "BQ_TABLE_ID": "project-423cf945-e1b8-4332-bf5.agent_backend_etl.agent_etl_table",
+  "GCS_CODEBASE_BUCKET": "gs://codebase_etl_pipeline"
+}
