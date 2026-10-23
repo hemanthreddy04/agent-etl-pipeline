@@ -1,6 +1,0 @@
-campaign_id,campaign_name,campaign_type,start_date,end_date,total_spent,total_impressions,total_clicks,total_conversions,status,ingestion_timestamp,extra_column
-CMP071,Product Launch Campaign 71,Product Launch,2027-01-01,2027-01-28,34500,3150000,56900,2945,Scheduled,2031-08-13 10:12:11.699554,ExtraValue11
-CMP072,Lead Generation Campaign 72,Lead Generation,2027-02-01,2027-02-28,35000,3200000,57800,2990,Draft,2031-08-13 10:12:12.699554,ExtraValue12
-CMP073,Brand Awareness Campaign 73,Brand Awareness,2027-03-01,2027-03-28,35500,3250000,58700,3035,Active,2031-08-13 10:12:13.699554,ExtraValue13
-CMP074,Sales Promotion Campaign 74,Sales Promotion,2027-04-01,2027-04-28,36000,3300000,59600,3080,Completed,2031-08-13 10:12:14.699554,ExtraValue14
-CMP075,Product Launch Campaign 75,Product Launch,2027-05-01,2027-05-28,36500,3350000,60500,3125,Scheduled,2031-08-13 10:12:15.699554,ExtraValue15
